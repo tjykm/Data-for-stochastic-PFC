@@ -1,4 +1,5 @@
-Node-i Node-j Branch-type(0-line, 1-transformer)  R X B (no-use)
+Colomn 1 2 3 4 5 6 7
+Node-i Node-j Branch-type(0-line, 1-transformer)  R X (B-for line,K-for transformer) (no-use)
 1	2	0	0.01938	0.05917	0.05280	1
 1	5	0	0.05403	0.22304	0.04920	1
 2	3	0	0.04699	0.19797	0.04380	1
